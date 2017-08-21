@@ -1,0 +1,28 @@
+{
+  "name": "web-tooling-and-automation-udacity-ud892",
+  "version": "1.0.0",
+  "description": "This repo consists the code for learning Web tooling and automations",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhuni/web-tooling-and-automation-udacity-ud892.git"
+  },
+  "keywords": [
+    "Web",
+    "tooling",
+    "and",
+    "automation"
+  ],
+  "author": "Kanishka Mohan Madhuni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhuni/web-tooling-and-automation-udacity-ud892/issues"
+  },
+  "homepage": "https://github.com/madhuni/web-tooling-and-automation-udacity-ud892#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
